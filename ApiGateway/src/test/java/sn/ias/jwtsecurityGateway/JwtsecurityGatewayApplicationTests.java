@@ -1,0 +1,13 @@
+package sn.ias.jwtsecurityGateway;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class JwtsecurityGatewayApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
